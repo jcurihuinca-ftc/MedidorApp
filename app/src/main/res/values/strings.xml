@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MedidorApp</string>
+    <string name="measurement_list">Lista de Mediciones</string>
+    <string name="lista_mediciones">Lista de Mediciones</string>
+    <string name="tipo_medicion">Tipo de Medición</string>
+    <string name="valor_medicion">Valor de Medición</string>
+
+    <string name="guardar">Guardar</string>
+    <string name="agregar_medicion">Agregar Medición</string>
+    <string name="volver">Volver</string>
+
+    <string name="no_measurements">No hay mediciones registradas</string>
+    <string name="save">Guardar</string>
+</resources>
